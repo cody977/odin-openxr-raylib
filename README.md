@@ -5,6 +5,8 @@ I am only a hobbyist programmer and wanted to use Odin for VR so I used claude t
 Everything is AI generated (since I could not do it alone).
 Has been tested and working on Windows 11 with Quest3 using Steam Link.
 
+I will be using this to make my own VR engine but sharing as someone smarter than me can improve on it and bring the VR world to Odin.
+
 --ABOUT--
 A minimal PC VR application in Odin. raylib provides the OpenGL context and
 all the drawing; OpenXR provides head pose, per-eye projection, controller
