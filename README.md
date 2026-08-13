@@ -36,7 +36,7 @@ Odin has no Android target, so standalone Quest builds are not possible.
 See the [guide PDF](odin-raylib-openxr-guide.pdf) for how it all fits together
 and a symptom-to-cause table for the failures that are silent in VR.
 
-
+Just download the folder and run it, ensure that your headset is connected and steam VR is running first.
 
 <img width="738" height="467" alt="image" src="https://github.com/user-attachments/assets/3a3ea4f1-1d49-4f77-880e-4d7616e9e54e" />
 
