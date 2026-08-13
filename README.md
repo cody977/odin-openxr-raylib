@@ -1,5 +1,11 @@
 # odin-raylib-openxr
 
+--DISCLAIMER--
+I am only a hobbyist programmer and wanted to use Odin for VR so I used claude to get Openxr working with Raylib.
+Everything is AI generated (since I could not do it alone).
+Has been tested and working on Windows 11 with Quest3 using Steam Link.
+
+--ABOUT--
 A minimal PC VR application in Odin. raylib provides the OpenGL context and
 all the drawing; OpenXR provides head pose, per-eye projection, controller
 input, and the swapchain images the compositor displays.
@@ -29,3 +35,8 @@ Odin has no Android target, so standalone Quest builds are not possible.
 `scene.odin` is the file you edit; everything prefixed `xr_` is plumbing.
 See the [guide PDF](odin-raylib-openxr-guide.pdf) for how it all fits together
 and a symptom-to-cause table for the failures that are silent in VR.
+
+
+
+<img width="738" height="467" alt="image" src="https://github.com/user-attachments/assets/3a3ea4f1-1d49-4f77-880e-4d7616e9e54e" />
+
